@@ -7,6 +7,7 @@
      pkg install python -y
      pkg install git -y
      pip install requests
-     pip install cython git clone https://github.com/saedhasan7840/HACKER
+     pip install cython
+     git clone https://github.com/saedhasan7840/HACKER
      cd HACKER
      python DCOD.py
